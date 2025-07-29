@@ -1,0 +1,11 @@
+{
+  "build": {
+    "env": {
+      "BOT_TOKEN": "7522716808:AAFFz5O4OVekq1ayXxBY52_nS0TtJrBbTtA"
+    },
+    "commands": [
+      "pip install -r المتطلبات.txt"
+    ]
+  },
+  "start": "python3 main.py"
+}
